@@ -24,4 +24,4 @@ A modern note-taking application developed using Kotlin, Jetpack Compose, and MV
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/MahmoudMustafaa/notes-app-compose.git
